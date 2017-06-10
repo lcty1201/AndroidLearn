@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RatingBar">
+        <attr name="startNormal" format="reference"></attr>
+        <attr name="startFocus" format="reference"></attr>
+        <attr name="startNumber" format="integer"></attr>
+    </declare-styleable>
+</resources>
